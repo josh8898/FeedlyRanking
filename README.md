@@ -11,9 +11,9 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 ### Run Code
-'''
+```
 python3 feedly.py
 (when it has finished)
 python3 dashboard.py
-'''
+```
 And navigate to the localhost url to view/interact with results
