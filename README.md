@@ -1,5 +1,5 @@
 # FeedlyRanking
-A python script that scrapes your RSS (Feedly) feed and ranks articles using Word Mover's Distance and the Jaccard Index, according to keywords provided in keywords.txt. A feedly developer account and developer access token is required for this. Details on how to get this can be found [here](https://developer.feedly.com/v3/developer/)
+A python script that scrapes your RSS (Feedly) feed and ranks articles using Word Mover's Distance and the Jaccard Index, according to keywords provided in keywords.txt. A feedly developer account and developer access token is required for this. Details on how to get this can be found [here.](https://developer.feedly.com/v3/developer/)
 
 ### SETUP
 - add .env to directory, with KEY={your developer access token}
