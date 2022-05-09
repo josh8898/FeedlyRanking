@@ -151,7 +151,7 @@ for collection in collections:
 		arr.append(row)
 
 #Gensim Word Mover's Distance
-sentence_keywords = 'agile analytics artificial intelligence automation climate cybersecurity demographic digital disruption future privacy security superannuation taxpayer technology trends trust'
+sentence_keywords = ' '.join(terms)
 from nltk.corpus import stopwords
 from nltk import download
 import gensim.downloader as api
